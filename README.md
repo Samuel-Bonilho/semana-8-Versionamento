@@ -1,1 +1,1 @@
-# semana-8-Versionamento
+[![linha-de-montagem](https://github.com/Samuel-Bonilho/semana-8-Versionamento/actions/workflows/main.yml/badge.svg)](https://github.com/Samuel-Bonilho/semana-8-Versionamento/actions/workflows/main.yml)
